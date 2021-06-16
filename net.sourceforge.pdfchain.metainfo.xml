@@ -10,30 +10,31 @@
   <description>
   <p>If PDF is electronic paper, then PDFtk is an electronic staple-remover,
     hole-punch, binder, secret-decoder-ring, and X-Ray-glasses. PDFtk is a
-    simple tool for doing everyday things with PDF documents.</p>
-  <p><b>Features:</b></p>
+    simple tool for doing everyday things with PDF documents, and PDF Chain
+    is a nice frontend application to it.</p>
+  <p>Features:</p>
   <ul>
-    <li> · Merge PDF Documents or Collate PDF Page Scans</li>
-    <li> · Split PDF Pages into a New Document</li>
-    <li> · Rotate PDF Documents or Pages</li>
-    <li> · Decrypt Input as Necessary (Password Required)</li>
-    <li> · Fill PDF Forms with X/FDF Data and/or Flatten Forms</li>
-    <li> · Generate FDF Data Stencils from PDF Forms</li>
-    <li> · Apply a Background Watermark or a Foreground Stamp</li>
-    <li> · Report PDF Metrics, Bookmarks and Metadata</li>
-    <li> · Add/Update PDF Metrics, Bookmarks or Metadata</li>
-    <li> · Attach Files to PDF Pages or the PDF Document</li>
-    <li> · Unpack PDF Attachments</li>
-    <li> · Burst a PDF Document into Single Pages</li>
-    <li> · Uncompress and Re-Compress Page Streams</li>
-    <li> · Repair Corrupted PDF (where possible)</li>
+    <li>Merge PDF Documents or Collate PDF Page Scans</li>
+    <li>Split PDF Pages into a New Document</li>
+    <li>Rotate PDF Documents or Pages</li>
+    <li>Decrypt Input as Necessary (Password Required)</li>
+    <li>Fill PDF Forms with X/FDF Data and/or Flatten Forms</li>
+    <li>Generate FDF Data Stencils from PDF Forms</li>
+    <li>Apply a Background Watermark or a Foreground Stamp</li>
+    <li>Report PDF Metrics, Bookmarks and Metadata</li>
+    <li>Add/Update PDF Metrics, Bookmarks or Metadata</li>
+    <li>Attach Files to PDF Pages or the PDF Document</li>
+    <li>Unpack PDF Attachments</li>
+    <li>Burst a PDF Document into Single Pages</li>
+    <li>Uncompress and Re-Compress Page Streams</li>
+    <li>Repair Corrupted PDF (where possible)</li>
   </ul>
   <p> ---------- DISCLAIMER ---------- </p>
   <p>Latest version of this software is very old and so it may contain bugs,
      so to be on the safe side make sure to NOT open any untrusted pdf files
      with it. For this same reason we have limited this application to only
-     save files to xdg dirs: "Downloads", "Documents" and "Pictures". But
-     you can open (readonly) files from any other location.
+     save files to standard locations: "Downloads", "Documents" and "Pictures".
+     You can also save to external devices (like USB pendrive).
   </p>
   </description>
   <provides>
