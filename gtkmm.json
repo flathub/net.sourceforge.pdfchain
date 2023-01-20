@@ -105,13 +105,6 @@
         },
         {
             "name": "pangomm",
-            "sources": [
-                {
-                    "sha256": "d3787d04d6198b606f3efa357b3b452a7140e2a7dee56f9f9ce516d7d5fcec1b",
-                    "type": "archive",
-                    "url": "https://ftp.gnome.org/pub/GNOME/sources/pangomm/2.46/pangomm-2.46.0.tar.xz"
-                }
-            ],
             "buildsystem": "meson",
             "config-opts": [
                 "-Dbuild-documentation=false"
@@ -121,6 +114,13 @@
                 "/include/pangomm-1.4",
                 "/lib/pangomm-1.4",
                 "/lib/pkgconfig"
+            ],
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://ftp.gnome.org/pub/GNOME/sources/pangomm/2.46/pangomm-2.46.3.tar.xz",
+                    "sha256": "410fe04d471a608f3f0273d3a17d840241d911ed0ff2c758a9859c66c6f24379"
+                }
             ]
         },
         {

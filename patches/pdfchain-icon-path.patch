@@ -1,0 +1,11 @@
+--- pdfchain-0.4.4.2/src/constant.h-orig	2023-01-20 10:08:26.859244592 -0500
++++ pdfchain-0.4.4.2/src/constant.h	2023-01-20 10:08:36.468408211 -0500
+@@ -55,7 +55,7 @@
+ 	const guint SPACING = 12;
+ 	const guint PADDING = 5;
+ */
+-	const std::string APPICON_PATH_A = "/usr/share/pixmaps/pdfchain.png";
++	const std::string APPICON_PATH_A = "/app/share/pixmaps/pdfchain.png";
+ 	const std::string APPICON_PATH_B = "/usr/local/share/pixmaps/pdfchain.png";
+ 
+ 	// About
