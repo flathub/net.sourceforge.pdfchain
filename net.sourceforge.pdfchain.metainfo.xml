@@ -6,7 +6,7 @@
   <project_license>GPL-3.0</project_license>
   <developer_name>Martin Singer</developer_name>
   <name>PDF Chain</name>
-  <summary>PDF Chain is a graphical user interface for the PDF Toolkit (PDFtk)</summary>
+  <summary>Graphical interface for the PDF Toolkit (PDFtk)</summary>
   <description>
   <p>If PDF is electronic paper, then PDFtk is an electronic staple-remover,
     hole-punch, binder, secret-decoder-ring, and X-Ray-glasses. PDFtk is a
@@ -33,7 +33,7 @@
   <p>Latest version of this software is very old and so it may contain bugs,
      so to be on the safe side make sure to NOT open any untrusted pdf files
      with it. For this same reason we have limited this application to only
-     save files to standard locations: "Downloads", "Documents" and "Pictures".
+     save files to standard locations: "Downloads", "Documents".
      You can also save to external devices (like USB pendrive).
   </p>
   </description>
@@ -43,28 +43,28 @@
   </provides>
   <screenshots>
     <screenshot>
-    <image type="source">https://a.fsdn.com/con/app/proj/pdfchain/screenshots/329661.jpg/max/max/1</image>
-    <caption>Concatenate extended</caption>
+    <image type="source">https://github.com/user-attachments/assets/0dc05a9c-0c18-4570-86b0-f631205857a6</image>
+    <caption>Combines selected pages of various documents into a single output document</caption>
     </screenshot>
     <screenshot>
-    <image type="source">https://a.fsdn.com/con/app/proj/pdfchain/screenshots/329663.jpg/max/max/1</image>
-    <caption>Burst</caption>
+    <image type="source">https://github.com/user-attachments/assets/11ce5bf0-f5e5-403f-9314-82e1ed15a2b1</image>
+    <caption>Splits a single document into individual pages</caption>
     </screenshot>
     <screenshot>
-    <image type="source">https://a.fsdn.com/con/app/proj/pdfchain/screenshots/329673.jpg/max/max/1</image>
-    <caption>Tools</caption>
+    <image type="source">https://github.com/user-attachments/assets/3d703fb8-7878-4ad7-9ce9-d075ec65ba98</image>
+    <caption>Prints a background or a stamp layer on each page of a single document</caption>
     </screenshot>
     <screenshot type="default">
-    <image type="source">https://a.fsdn.com/con/app/proj/pdfchain/screenshots/329659.jpg/max/max/1</image>
-    <caption>Concatenate simple</caption>
+    <image type="source">https://github.com/user-attachments/assets/34310b3d-8dd2-49bf-be94-e6625b363de4</image>
+    <caption>Attaches several files to a single document</caption>
     </screenshot>
     <screenshot>
-    <image type="source">https://a.fsdn.com/con/app/proj/pdfchain/screenshots/329671.jpg/max/max/1</image>
-    <caption>Background / Stamp</caption>
+    <image type="source">https://github.com/user-attachments/assets/2862e599-5b14-49ed-acdf-639fa25c0fcf</image>
+    <caption>Some different tools to work with a single document</caption>
     </screenshot>
     <screenshot>
-    <image type="source">https://a.fsdn.com/con/app/proj/pdfchain/screenshots/329669.jpg/max/max/1</image>
-    <caption>Attachment</caption>
+    <image type="source">https://github.com/user-attachments/assets/487f0528-2306-4071-b828-e60a2c796df8</image>
+    <caption>Shows About dialog in dark theme</caption>
     </screenshot>
   </screenshots>
   <url type="homepage">https://sourceforge.net/projects/pdfchain/</url>
