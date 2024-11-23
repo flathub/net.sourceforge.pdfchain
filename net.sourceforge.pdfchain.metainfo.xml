@@ -71,6 +71,21 @@
   <update_contact>nbenitezl_AT_gmail.com</update_contact>
   <content_rating type="oars-1.1"/>
   <releases>
+    <release version="0.4.4.2.fl1" date="2024-11-23">
+    <description>
+      <p>0.4.4.2-fl1 flathub maintenance release</p>
+      <ul>
+        <li>Fix app crashing when built with GCC >= 13.1</li>
+        <li>Update runtime to Freedesktop 24.08</li>
+        <li>Update gtkmm.json versions</li>
+        <li>Remove "Pictures" folder permission</li>
+        <li>Add wayland socket pemission</li>
+        <li>Re-phrase metainfo file Summary according to guidelines</li>
+        <li>Update screenshots</li>
+      </ul>
+    </description>
+    <url>https://sourceforge.net/projects/pdfchain/files/pdfchain-0.4.4.2/</url>
+    </release>
     <release version="0.4.4.2" date="2015-12-18">
     <description>
       <p>0.4.4.2 release</p>
