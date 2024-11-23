@@ -99,6 +99,10 @@
                     "path": "patches/pdfchain-icon-path.patch"
                 },
                 {
+                    "type": "patch",
+                    "path": "patches/fix_app_crash_with_gcc13.patch"
+                },
+                {
                     "type": "file",
                     "path": "net.sourceforge.pdfchain.metainfo.xml"
                 }
