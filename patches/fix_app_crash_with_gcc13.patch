@@ -1,4 +1,4 @@
---- pdfchain-code/src/window_main_bgst.cc	2017-03-13 09:02:38.000000000 +0000
+ --- pdfchain-code/src/window_main_bgst.cc	2017-03-13 09:02:38.000000000 +0000
 +++ pdfchain-code/src/window_main_bgst.cc	2024-11-23 16:47:51.367501743 +0000
 @@ -37,7 +37,7 @@
  	mLabel_SourceFile( _("Document:")    , Gtk::ALIGN_END , Gtk::ALIGN_CENTER , false ) ,	// label , xalign , yalign , mnemonic
